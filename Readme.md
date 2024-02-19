@@ -5,7 +5,7 @@ Utilizando a linguagem de sua escolha, crie um algoritmo que dado um array de st
 
 - Exemplo:
 
-``
+```
 JSON de Entrada
  [ 
    { "str": "amor" },
@@ -27,7 +27,7 @@ JSON de Saída
    { "anagramas": ["bolo", "lobo"] },
    { "anagramas": ["rota", "ator"] }
 ]   
-``
+```
 
 Atenção:  A resposta deve estar na ORDEM em que os termos aparecem.
 
